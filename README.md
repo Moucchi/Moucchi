@@ -38,4 +38,4 @@ I also run a Discord server called **Valorized** 🔥.
 ## Connect With Me 🤝
 
 - 📧 [Email me](mailto:emmanuel.rafidinjanahary@hotmail.com)
-- 💬 [Join Valorized on Discord](https://discord.gg/BBQj5GTat)
+- 💬 [Join Valorized on Discord](https://discord.gg/hkWFeQ3H8G)
