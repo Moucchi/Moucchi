@@ -6,11 +6,15 @@ I'm a co-founder of **RANEW** 🌱, a project in Madagascar that aims to treat g
 
 ## What I Work With 🛠️
 
-- ☕ Spring Boot
+- 🍃 Java with Spring Boot
 - 🅰️ Angular
 - 🎨 Tailwind CSS
-- 🔌 Arduino IDE
+- 🐘 PostgreSQL
+- a bit of C++ (still learning)
+- 📜 Arduino IDE
+- 📜 Jetbrains' products
 - 📐 SolidWorks
+- ⚡ KiCad
 - 🤖 Electronics and IoT
 
 I'm currently learning Electronics and IoT at **Orange Digital Center Madagascar**, while exploring better ways to connect software, hardware, and real-world impact 🌍.
